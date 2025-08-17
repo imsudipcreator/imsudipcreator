@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Sudip Mahata 👋
 ### 📊 GitHub Stats
 ![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsudipcreator&show_icons=true&theme=radical)
 ### 🔥 Most Used Languages
