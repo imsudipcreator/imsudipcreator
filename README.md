@@ -17,5 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imsudipcreator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imsudipcreator&theme=radical&hide_border=true)
-
